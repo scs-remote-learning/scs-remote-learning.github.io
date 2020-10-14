@@ -1,0 +1,21 @@
+.center {
+  text-align: center;
+}
+
+.short {
+  max-height: 10rem;
+}
+
+.title {
+  color: #00529b;
+}
+
+.card-image {
+  width: 75%;
+  margin-left: 1rem;
+  margin-top: 1rem;
+}
+
+.btn-primary {
+  background-color: #00529b;
+}
